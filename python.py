@@ -31,3 +31,4 @@ while True:
         exit()
 
 #qwerty
+finish
