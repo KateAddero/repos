@@ -30,3 +30,4 @@ while True:
         print("Я победил! ho-ho")
         exit()
 
+#qwerty
