@@ -29,4 +29,3 @@ while True:
     if N == 1:
         print("Я победил! ho-ho")
         exit()
-
